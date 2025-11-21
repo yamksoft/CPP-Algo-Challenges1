@@ -55,4 +55,4 @@
 ---
 
 ## 📄 التراخيص وحقوق النشر
-Copyright © 2025 Yahya Saleh Al-Daroubi. All Rights Reserved.
+Copyright © 2025 yamksoft. All Rights Reserved.
